@@ -15,13 +15,9 @@ How Script Works
 ----------------
 
 1. User is prompted to select one of the following positions:
-
 - Goalkeeper
-
 - Defender
-
 - Midfielder
-
 - Forward
 
 2. Script then gathers a list of players from the English Premier League that play that position
